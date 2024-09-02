@@ -5,6 +5,7 @@ Author (@Slack):
 Yara Haitham Samir (@yarahaitham)  
 Wale Joseph (@wale)  
 
+# immunocheckpoints #
 
 Immune checkpoints are like the brakes of the immune system, helping to keep it in check and prevent it from attacking the body’s own tissues. However, in cancer, these checkpoints can be hijacked by tumor cells, allowing them to hide from the immune system and continue to grow unchecked. Two key players in this process are CTLA-4 and PD-1, which are often targeted in cancer immunotherapy to help the immune system recognize and attack cancer cells. The way these checkpoints are expressed differently across various cancers can greatly affect how well these therapies work.  
 The expression of immune checkpoints like PD-1 and its partner, PD-L1, can vary widely between cancer types, stages, and even from one patient to another. In some cancers, such as melanoma, lung cancer, and kidney cancer, PD-1 and PD-L1 levels are often high. This high expression allows cancer cells to evade the immune system by “turning off” the attacking T-cells, creating an environment that supports tumor growth. In other cancers, these checkpoints might be expressed at lower levels, which could suggest different ways the cancer avoids immune detection.  
